@@ -24,7 +24,7 @@
 	- Local ==> Remote push(최초 동기화)
 		- >> git remote -v (remote 정보 확인)
 		- >> git remote remove origin (remove 정보 제거)
-		- >> git remote origin https://github.com/chr0032/MosaicWeb2.git
+		- >> git remote add origin https://github.com/chr0032/MosaicWeb2.git
 		- >> git push -u origin master (처음에만)
 		- >> git status
 	- 개발자2  Clone 수행 
